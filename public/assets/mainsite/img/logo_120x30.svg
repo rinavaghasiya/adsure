@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="120px" height="30px" viewBox="0 0 120 30" enable-background="new 0 0 120 30" xml:space="preserve">
+<font horiz-adv-x="1000">
+<!-- HTF Gotham  Copr. 2000 The Hoefler Type Foundry, Inc. Info: www.typography.com -->
+<!-- Copyright: Copyright 2018 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="Gotham-Light" units-per-em="1000" underline-position="-133" underline-thickness="20"/>
+<missing-glyph horiz-adv-x="500"/>
+<glyph unicode="A" horiz-adv-x="790" d="M44,0l54,0l89,196l413,0l89,-196l57,0l-326,705l-50,0M209,243l185,405l184,-405z"/>
+<glyph unicode="D" horiz-adv-x="782" d="M104,0l233,0C557,0 709,153 709,350l0,2C709,549 557,700 337,700l-233,0M156,48l0,604l181,0C532,652 655,516 655,350l0,-2C655,181 532,48 337,48z"/>
+<glyph unicode="L" horiz-adv-x="619" d="M104,0l463,0l0,48l-411,0l0,652l-52,0z"/>
+<glyph unicode="O" horiz-adv-x="850" d="M424,-12C636,-12 777,159 777,350C778,351 778,351 777,352C777,543 638,712 426,712C214,712 73,541 73,350l0,-2C73,157 212,-12 424,-12M426,35C253,35 127,177 127,350l0,2C127,525 251,665 424,665C597,665 723,523 723,350l0,-2C723,175 599,35 426,35z"/>
+<glyph unicode="S" horiz-adv-x="640" d="M341,-10C476,-10 573,68 573,181l0,2C573,285 505,343 343,376C177,410 139,455 139,529l0,2C139,604 207,663 310,663C387,663 453,641 519,584l33,41C481,682 414,710 312,710C182,710 87,630 87,526l0,-2C87,418 155,361 323,327C482,295 521,252 521,178l0,-2C521,96 449,37 344,37C241,37 170,70 93,141l-34,-39C143,27 229,-10 341,-10z"/>
+<glyph unicode="T" horiz-adv-x="648" d="M298,0l52,0l0,652l244,0l0,48l-540,0l0,-48l244,0z"/>
+<glyph unicode="U" horiz-adv-x="760" d="M380,-11C550,-11 667,96 667,297l0,403l-52,0l0,-409C615,122 524,36 382,36C234,36 145,131 145,296l0,404l-52,0l0,-409C93,95 212,-11 380,-11z"/>
+</font>
+
+	<text transform="matrix(1.0301 0 0 1 -0.4414 25.2852)" fill="#FFFFFF" font-family="'Gotham-Light'" font-size="22.9576">ADSOLUT</text>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="24.064" y1="2.494" x2="58.511" y2="2.494"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="64.185" y1="2.436" x2="98.633" y2="2.436"/>
+<ellipse fill="#FFFFFF" cx="61.33" cy="2.436" rx="1.491" ry="1.436"/>
+</svg>
